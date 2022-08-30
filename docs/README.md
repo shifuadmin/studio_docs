@@ -1,1 +1,1 @@
-# studio_docs
+# Terra studio SDK
