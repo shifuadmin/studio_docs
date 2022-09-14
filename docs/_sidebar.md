@@ -1,24 +1,13 @@
-* [Home](/)
-* [Guide](quickstart.md)
+<img src="_media/icon.png" style="padding-left:30px"  width="200px"></img>
 
 - Getting started
 
   - [Installation](quickstart.md)
 
-- Network intro
+- Network Basics
 
   - [Mirror](networkintro.md)
 
 - Nodes
 
   - [Player](player.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Server-Side Rendering (SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-  - [Venkat Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)

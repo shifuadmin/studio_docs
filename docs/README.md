@@ -1,3 +1,3 @@
-# Headline
+# Studio
 
-> An awesome project.
+> An attempt at documentation.
